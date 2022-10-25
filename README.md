@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KxdLeo
 - 👀 I’m interested in music
-- 🌱 I’m currently learning c, python,html, css, javascript,sql
+- 🌱 I’m currently learning c, python, html, css, javascript, sql, java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
